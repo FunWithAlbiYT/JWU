@@ -1,2 +1,3 @@
-# JWU
-A language I did cuz I wanted to raise my repository count
+#JWU
+JWU 2022
+      - how to start your day 💀
